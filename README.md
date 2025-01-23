@@ -9,7 +9,7 @@ rgb(49, 81, 30)
 rgb(133, 159, 61)
 rgb(246, 252, 223)
 -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:31511E,100:859F3D&height=600&section=header&text=Hello%20I'm%20DaeYeon&fontSize=60&stroke=ffffff&strokeWidth=1&fontColor=1A1A19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:31511E,100:859F3D&height=400&section=header&text=Hello%20I'm%20대연&fontSize=60&stroke=ffffff&strokeWidth=1&fontColor=1A1A19" width="100%"/>
 
 
 
