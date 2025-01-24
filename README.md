@@ -33,6 +33,19 @@ rgb(246, 252, 223)
 
 </div>
 
+<br>
+<br>
+<br>
+
+<div align="center"?>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dyoun12&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/dyoun12"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
 
 <br>
 <br>
@@ -50,3 +63,4 @@ rgb(246, 252, 223)
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dyoun12&theme=react-dark&bg_color=20232a&hide_border=true&line=31511E&color=859F3D" width=94%/>
 </div>
+
