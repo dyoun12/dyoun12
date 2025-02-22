@@ -11,6 +11,16 @@ rgb(246, 252, 223)
 -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:31511E,100:859F3D&height=400&section=header&text=Hello%20I'm%20대연&fontSize=60&stroke=ffffff&strokeWidth=1&fontColor=1A1A19" width="100%"/>
 
+<div align="center">
+  
+### [ 👉 My Notes in Graph View 👈 ](https://dyoun12.github.io/Github-Profile-With-Graph-View/)
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
 
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:31511E,100:859F3D&height=50&section=header&text=SKILS&fontSize=40&stroke=ffffff&strokeWidth=1&fontColor=1A1A19" width="100%"/>
