@@ -84,14 +84,16 @@ Currently, I am focusing on studying networking and infrastructure.
 | [miss-match/Analyze-ChatGPT-Reviews-with-SQL](https://github.com/miss-match/Analyze-ChatGPT-Reviews-with-SQL) | SQL 기본 문법 및 정규표현식을 활용한 학습용 교안 제작과 더불어 문제 풀이를 위한 기본 데이터셋 구성 | 4명 |
 | [3kim-gu/Eat_IT](https://github.com/3kim-gu/Eat_IT) | MVC 패턴 학습 및 CRUD 기능을 구현한 JDBC 활용 | 4명 |
 
-
+<br>
+<br>
+<br>
 
 <div align="center"?>
-<img
+<!-- <img
   src="https://render.gitanimals.org/farms/dyoun12"
   width="600"
   height="300"
-/>
+/> -->
 </div>
 
 <br>
