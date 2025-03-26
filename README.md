@@ -69,6 +69,23 @@ Currently, I am focusing on studying networking and infrastructure.
 <br>
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:31511E,100:859F3D&height=50&section=header&text=PROJECTS&fontSize=40&stroke=ffffff&strokeWidth=1&fontColor=1A1A19" width="100%"/>
+
+<!-- 최근 프로젝트가 상단으로 오게 구성 -->
+
+| Link | Desc | Scale |
+| ---- | ---- | ----- |
+| [dyoun12/Github-Profile-With-Graph-View](https://github.com/dyoun12/Github-Profile-With-Graph-View) | git action, pages를 이용한 CI/CD 경험, D3 js를 통한 데이터 시각화 | 1명 |
+| [weAreFoodie/KAFKA-DEMO](https://github.com/weAreFoodie/KAFKA-DEMO/) | KAFKA에 대한 개념 학습 및 EDA(이벤트 기반 아키텍처)의 안정성 테스트를 위한 데모 구현, fastapi, spring과 같은 다양한 아키텍처를 사용하여 MSA 환경 구축, websocket을 이용한 아키텍처간 데이터 전송, vpc 배포 경험 확보  | 4명 |
+| [ WeAreFoodie/wefifty ](https://github.com/weAreFoodie/wefifty) | servlet, jsp 기반 Java Web 서비스 구현, ajax를 통한 비동기 통신 학습, PR 및 commit.template를 이용한 컨벤션 설정과 작업 경험 | 4명 |
+| [Seollal-TF-TEAM/Search-Stack](https://github.com/Seollal-TF-TEAM/Search-Stack)| AWS EC2 서버 내 docker-compose를 이용한 ELK, EFK stack 구성 및 Spring AOP의 로그 수집, 파이프라인 별 데이터 처리 과정 비교 | 5명 |
+| [weAreFoodie/elk-leaning-in-linux](https://github.com/weAreFoodie/elk-learning-in-linux)| linux VM 간 NAT-Network를 통한 ElasticSearch, Kibana 연동 과정, Kibana를 이용한 소비내역 데이터 시각화 및 분석 | 4명 |
+| [weAreFoodie/DDS](https://github.com/weAreFoodie/DDS)| KIS API를 활용한 실시간 주가 체결 정보 수집 이후 ELK 스택 내 파이프라인을 구성하고 영구 저장될 데이터를 이관| 4명 |
+| [miss-match/Analyze-ChatGPT-Reviews-with-SQL](https://github.com/miss-match/Analyze-ChatGPT-Reviews-with-SQL) | SQL 기본 문법 및 정규표현식을 활용한 학습용 교안 제작과 더불어 문제 풀이를 위한 기본 데이터셋 구성 | 4명 |
+| [3kim-gu/Eat_IT](https://github.com/3kim-gu/Eat_IT) | MVC 패턴 학습 및 CRUD 기능을 구현한 JDBC 활용 | 4명 |
+
+
+
 <div align="center"?>
 <img
   src="https://render.gitanimals.org/farms/dyoun12"
