@@ -75,6 +75,9 @@ Currently, I am focusing on studying networking and infrastructure.
 
 | Link | Desc | Scale |
 | ---- | ---- | ----- |
+| [fisa4th-final-project/test-for-infra](https://github.com/fisa4th-final-project/test-for-infra/blob/main/README.md) | 인프라 구축 관점에서 CI/CD 파이프라인 내에 테스트 과정을 추가할 수 있도록 테스트 종류 및 목적, 기준을 조사 | 4명 |
+| [Gimme-Jjukkumi/EKS-Prometheus](https://github.com/Gimme-Jjukkumi/EKS-Prometheus) | DevOps 관점에서 기능과 비용적 측면을 고려한 EKS 환경을 구축하고, 노드 별 매트릭 정보를 수집, 로컬 환경의 Grapana를 이용하여 데이터 시각화 진행 | 4명 |
+| [CaDaDaHe/Linux-IDS](https://github.com/CaDaDaHe/Linux-IDS) | Linux기반 Crontab을 이용해 주기적으로 비정상적 접근을 탐지하고 일정 조건을 충족할 시에 이를 deny시킬 수 있도록 IDS 구성 | 4명 |
 | [dyoun12/Github-Profile-With-Graph-View](https://github.com/dyoun12/Github-Profile-With-Graph-View) | git action, pages를 이용한 CI/CD 경험, D3 js를 통한 데이터 시각화 | 1명 |
 | [weAreFoodie/KAFKA-DEMO](https://github.com/weAreFoodie/KAFKA-DEMO/) | KAFKA에 대한 개념 학습 및 EDA(이벤트 기반 아키텍처)의 안정성 테스트를 위한 데모 구현, fastapi, spring과 같은 다양한 아키텍처를 사용하여 MSA 환경 구축, websocket을 이용한 아키텍처간 데이터 전송, vpc 배포 경험 확보  | 4명 |
 | [ WeAreFoodie/wefifty ](https://github.com/weAreFoodie/wefifty) | servlet, jsp 기반 Java Web 서비스 구현, ajax를 통한 비동기 통신 학습, PR 및 commit.template를 이용한 컨벤션 설정과 작업 경험 | 4명 |
