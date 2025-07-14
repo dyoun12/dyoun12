@@ -46,13 +46,12 @@ Currently, I am focusing on studying networking and infrastructure.
 ![Css](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![D3-JS](https://img.shields.io/badge/d3-F9A03C?style=for-the-badge&logo=d3&logoColor=black)
-<br>
-![Spring Tool Suite](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VUE-JS](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black)
 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 <br>
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![KAFKA](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Fluentd](https://img.shields.io/badge/Fluentd-0E83C8?style=for-the-badge&logo=fluentd&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
@@ -62,6 +61,9 @@ Currently, I am focusing on studying networking and infrastructure.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&logoSize=amd)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![ESXi](https://img.shields.io/badge/ESXi-607078?style=for-the-badge&logo=VMware&logoColor=white)
+![vSphere](https://img.shields.io/badge/vSphere-607078?style=for-the-badge&logo=VMware&logoColor=white)
 
 </div>
 
@@ -75,7 +77,7 @@ Currently, I am focusing on studying networking and infrastructure.
 
 | Link | Desc | Scale |
 | ---- | ---- | ----- |
-| [fisa4th-final-project/solra](https://github.com/fisa4th-final-project/test-for-infra/solra-docs) | 권한 및 역할 기반 사용자 기능을 중심으로 한 UI기반 K8S 멀티 클러스터 관리 목적의 PaaS 플랫폼  | 3명 |
+| [fisa4th-final-project/solra](https://github.com/fisa4th-final-project/solra-docs) | 권한 및 역할 기반 사용자 기능을 중심으로 한 UI기반 K8S 멀티 클러스터 관리 목적의 PaaS 플랫폼  | 3명 |
 | [fisa4th-final-project/test-for-infra](https://github.com/fisa4th-final-project/test-for-infra/blob/main/README.md) | 인프라 구축 관점에서 CI/CD 파이프라인 내에 테스트 과정을 추가할 수 있도록 테스트 종류 및 목적, 기준을 조사 | 4명 |
 | [Gimme-Jjukkumi/EKS-Prometheus](https://github.com/Gimme-Jjukkumi/EKS-Prometheus) | DevOps 관점에서 기능과 비용적 측면을 고려한 EKS 환경을 구축하고, 노드 별 매트릭 정보를 수집, 로컬 환경의 Grapana를 이용하여 데이터 시각화 진행 | 4명 |
 | [CaDaDaHe/Linux-IDS](https://github.com/CaDaDaHe/Linux-IDS) | Linux기반 Crontab을 이용해 주기적으로 비정상적 접근을 탐지하고 일정 조건을 충족할 시에 이를 deny시킬 수 있도록 IDS 구성 | 4명 |
