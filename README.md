@@ -13,8 +13,7 @@ rgb(246, 252, 223)
 
 <div align="center">
 
-I am a backend developer with experience in Spring and Python. <br>
-Currently, I am focusing on studying networking and infrastructure.
+안녕하세요 끊임없는 호기심으로 배움을 지속해나가고 있는 개발자 김대연입니다.
 
 </div>
 <br>
